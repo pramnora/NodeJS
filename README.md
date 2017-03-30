@@ -10,8 +10,8 @@ https://nodejs.org/en/
 
 Next, go and run a DOS prompt...use [Windows Picture Icon key] + [R]...and, type in: cmd...next, press [OK]. Then, if you type in at the DOS command prompt either of the two following commands it will tell you which version you are using:  
 
-node -v
-npm -v
+node -v  
+npm -v  
 
 NOTE: Downloading NodeJS does, automatically, come with NPM/Node Package Manager.  
 
