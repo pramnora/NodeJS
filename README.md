@@ -70,3 +70,9 @@ exit              (to quit running DOS)
 http://www.node.org  
 http://www.npm.org  
 
+## Tutorials
+
+### Video tutorials
+
+What is Node.js Exactly? - a beginners introduction to Nodejs  
+https://www.youtube.com/watch?v=pU9Q6oiQNd0&t=183s  
