@@ -48,7 +48,9 @@ global
 
 Example...  
 var a=1  
-global.a  
+global.a
+...or, simply,...  
+a
 
 **NOTE**: Type [CTRL] + [C], twice, in order to quit running node. Type: exit, to quit running DOS. 
 
