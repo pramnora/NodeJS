@@ -6,14 +6,16 @@ Believe it or not, but, NodeJS brings Javascript coding straight onto the Deskto
 
 Furthermore, NodeJS is incredibly simple and easy to both install/uninstall. Just go along to...  
 https://nodejs.org/en/    
-...and, on the front page it has 2 x download buttons: [LTS]/[Current]. I usually pick to download what is the current version...which also tends to be the most up to date version, as well. Right now, I'm using Windows 10; and, this will download the Windows automatic set up (.msi) file. After this file has downloaded, you simply click on it to run; and, then, check ok to accept all of the defaults; finally, click on Finish; and, you're all done...in just merely minutes.   
+...and, on the front page it has 2 x download buttons: [LTS]/[Current]. I usually pick to download what is the current most version...which also tends to be the most up to date version, as well. Right now, I'm using Windows 10; and, this will download the Windows automatic set up (.msi) file; after this file has completed downloading; then, you simply click on it to run; and, keep on clicking [OK] to accept all of the program defaults; finally, click on [Finish]; and, that's it, you're all done...in just merely a few minutes.   
+
+-(*NOTE*: If you ever wish to uninstall Node; then, it really is quite as simple and straight forwards as uninstalling any other Windows program; just look inside of Programs Manager; and, then, click: Uninstall.)-
 
 Next, go and run a DOS prompt...use [Windows Picture Icon key] + [R]...and, type in: cmd...next, press [OK]. Then, if you type in at the DOS command prompt either of the two following commands it will tell you which version you are using:  
 
 node -v  
 npm -v  
 
-NOTE: Downloading NodeJS does, automatically, come with NPM/Node Package Manager.  
+*NOTE*: Downloading NodeJS does, automatically, come with NPM/Node Package Manager.  
 
 Now, in order to load Node to run inside of Windows DOS Prompt; simply, type in...
 
