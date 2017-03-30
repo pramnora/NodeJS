@@ -45,7 +45,7 @@ var (x=1;x<13;x++){
 **NOTE: (1)**: Where do I go to install NodeJS for FREE?  
 https://nodejs.org/en/  
 
-**NOTE: (2)**: If you ever wish to uninstall Node; then, it really is quite as simple and straight forwards as uninstalling any other Windows program; just look inside of Programs Manager; and, then, click: Uninstall.
+**NOTE: (2)**: If you ever wish to uninstall Node; then, it really is quite as simple and straight forwards as uninstalling any other Windows program; just look inside of Programs Manager; find the program by  typing in the name: node; then, click: Uninstall.
 
 **NOTE: (3)**: Downloading NodeJS does, automatically, come with NPM/Node Package Manager. NPM, allows you to download other Node programs. To learn more, and, discover which other packages it is possible to install; then, go to: http://www.npm.org.
 
