@@ -2,7 +2,7 @@
 NodeJS code
 
 INTRODUCTION    
-Believe it or not, but, NodeJS brings Javascript coding straight onto the Desktop. At first, I really couldn't believe it myself...that is until when I tried it. Wow!  
+Believe it or not, but, NodeJS brings Javascript coding straight onto the Desktop; at first, I really couldn't believe it myself...that is, not until when I actually went and tried it...wow!  
 
 Furthermore, NodeJS is incredibly simple and easy to both install/uninstall. Just go along to...  
 https://nodejs.org/en/    
