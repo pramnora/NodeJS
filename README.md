@@ -54,15 +54,13 @@ global.a
 ...or, simply,...  
 a
 
-## Node JS commands...
+## Node JS commands...used when running node inside of DOS...  
 
-node -v   
-npm -v  
+node -v   (shows which node version you are currently running)  
+npm -v    (shows which npm version you are currently running)  
 
-...node running inside of the DOS prompt commands...  
-
-[CTRL]+[C], twice, to quit running node  
-exit, to quit running DOS  
+[CTRL]+[C], twice (to quit running node)      
+exit              (to quit running DOS)    
 
 ## Links...
 
