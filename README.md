@@ -54,12 +54,15 @@ global.a
 ...or, simply,...  
 a
 
-**NOTE**: Type [CTRL] + [C], twice, in order to quit running node. Type: exit, to quit running DOS. 
-
 ## Node JS commands...
 
 node -v   
 npm -v  
+
+...node running inside of the DOS prompt commands...  
+
+[CTRL]+[C], twice, to quit running node  
+exit, to quit running DOS  
 
 ## Links...
 
