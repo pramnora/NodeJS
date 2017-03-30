@@ -22,11 +22,11 @@ node
 ...then, to test out if Javascript commands are working type...
 
 (use node as a calculator)  
-3+3      
-3-3  
-3*3  
-3/3  
-Math.PI (3.141592653589793)  
+3+3 (6)       
+3-3 (0)   
+3*3 (9)    
+3/3 (1)     
+Math.PI (3.141592653589793)    
 
 (use variables)  
 var a=1  
