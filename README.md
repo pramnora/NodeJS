@@ -46,6 +46,10 @@ document.write()/or, window objects
 ...instead, you should use...  
 global  
 
+Example...  
+var a=1  
+global.a  
+
 ## Node JS commands...
 
 node -v   
