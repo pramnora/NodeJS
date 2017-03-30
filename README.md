@@ -8,16 +8,12 @@ Furthermore, NodeJS is incredibly simple and easy to both install/uninstall. Jus
 https://nodejs.org/en/    
 ...and, on the front page it has 2 x download buttons: [LTS]/[Current]. I usually pick to download what is the current most version...which also tends to be the most up to date version, as well. Right now, I'm using Windows 10; and, this will download the Windows automatic set up (.msi) file; after this file has completed downloading; then, you simply click on it to run; and, keep on clicking [OK] to accept all of the program defaults; finally, click on [Finish]; and, that's it, you're all done...in just merely a few minutes.   
 
--(**NOTE**: If you ever wish to uninstall Node; then, it really is quite as simple and straight forwards as uninstalling any other Windows program; just look inside of Programs Manager; and, then, click: Uninstall.)-
-
 Next, go and run a DOS prompt...use [Windows Picture Icon key] + [R]...and, type in: cmd...next, press [OK]. Then, if you type in at the DOS command prompt either of the two following commands it will tell you which version you are using:  
 
 node -v  
 v6.10.1  
 npm -v   
 4.4.4  
-
--(**NOTE**: Downloading NodeJS does, automatically, come with NPM/Node Package Manager. NPM, allows you to download other Node programs. To learn more go to: http://ww.npm.org.)-    
 
 Now, in order to load Node to run inside of Windows DOS Prompt; simply, type in...
 
@@ -29,7 +25,8 @@ node
 3+3      
 3-3  
 3*3  
-3/3   
+3/3  
+Math.PI (3.141592653589793)  
 
 (use variables)  
 var a=1  
@@ -43,7 +40,13 @@ var (x=1;x<13;x++){
  console.log(x + " X " + y + " = " + x*y;  
 }  
 
-**NOTE**: Because Node is not running inside of the web browser environment anymore; therefore, it follows you cannot use: 
+## NOTES
+
+**NOTE: (1)**: If you ever wish to uninstall Node; then, it really is quite as simple and straight forwards as uninstalling any other Windows program; just look inside of Programs Manager; and, then, click: Uninstall.
+
+**NOTE: (2)**: Downloading NodeJS does, automatically, come with NPM/Node Package Manager. NPM, allows you to download other Node programs. To learn more go to: http://ww.npm.org.
+
+**NOTE: (3) **: Because Node is not running inside of the web browser environment anymore; therefore, it follows you cannot use: 
 document.write()/or, window objects  
 ...instead, you should use...  
 global  
