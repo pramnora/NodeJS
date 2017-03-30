@@ -1,12 +1,17 @@
 # NodeJS
 NodeJS code
 
-INTRODUCTION    
+**INTRODUCTION**    
+
 Believe it or not, but, NodeJS brings Javascript coding straight onto the Desktop; at first, I really couldn't believe it myself...that is, not until when I actually went and tried it...wow!  
+
+**THE INSTALLATION PROCESS ON WINDOWS 10**    
 
 Furthermore, NodeJS is incredibly simple and easy to both install/uninstall. Just go along to...  
 https://nodejs.org/en/    
 ...and, on the front page it has 2 x download buttons: [LTS]/[Current]. I usually pick to download what is the current most version...which also tends to be the most up to date version, as well. Right now, I'm using Windows 10; and, this will download the Windows automatic set up (.msi) file; after this file has completed downloading; then, you simply click on it to run; and, keep on clicking [OK] to accept all of the program defaults; finally, click on [Finish]; and, that's it, you're all done...in just merely a few minutes.   
+
+**CHECKING WHICH VERSIONS OF BOTH NODE/NPM YOU GOT**  
 
 Next, go and run a DOS prompt...use [Windows Picture Icon key] + [R]...and, type in: cmd...next, press [OK]. Then, if you type in at the DOS command prompt either of the two following commands it will tell you which version you are using:  
 
@@ -14,6 +19,8 @@ node -v
 v6.10.1  
 npm -v   
 4.4.4  
+
+**HOW TO USE NODE/JAVASCRIPT INSIDE OF WINDOWS DOS PROMPT BOX**  
 
 Now, in order to load Node to run inside of Windows DOS Prompt; simply, type in...
 
