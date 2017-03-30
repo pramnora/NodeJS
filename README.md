@@ -14,7 +14,7 @@ Next, go and run a DOS prompt...use [Windows Picture Icon key] + [R]...and, type
 
 node -v  
 v6.10.1  
-npm -v 
+npm -v   
 4.4.4  
 
 -(**NOTE**: Downloading NodeJS does, automatically, come with NPM/Node Package Manager. NPM, allows you to download other Node programs. To learn more go to: http://ww.npm.org.)-    
