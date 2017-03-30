@@ -50,6 +50,8 @@ Example...
 var a=1  
 global.a  
 
+_NOTE_: Type [CTRL] + [C], twice, in orde to quit running node. Type: exit, to quit running DOS. 
+
 ## Node JS commands...
 
 node -v   
