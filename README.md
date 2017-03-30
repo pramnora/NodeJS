@@ -13,9 +13,11 @@ https://nodejs.org/en/
 Next, go and run a DOS prompt...use [Windows Picture Icon key] + [R]...and, type in: cmd...next, press [OK]. Then, if you type in at the DOS command prompt either of the two following commands it will tell you which version you are using:  
 
 node -v  
-npm -v  
+v6.10.1  
+npm -v 
+4.4.4  
 
-**NOTE**: Downloading NodeJS does, automatically, come with NPM/Node Package Manager.  
+-(**NOTE**: Downloading NodeJS does, automatically, come with NPM/Node Package Manager. NPM, allows you to download other Node programs. To learn more go to: http://ww.npm.org.)-    
 
 Now, in order to load Node to run inside of Windows DOS Prompt; simply, type in...
 
@@ -58,3 +60,9 @@ a
 
 node -v   
 npm -v  
+
+## Links...
+
+http://www.node.org  
+http://www.npm.org  
+
