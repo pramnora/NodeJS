@@ -27,8 +27,8 @@ v6.10.1
 4.4.4  
 
 Other node commands are...  
-> npm help
-> npm update
+> npm help  
+> npm update  
 
 For further reading: See NOTE(3)...  
 
