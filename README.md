@@ -20,7 +20,7 @@ v6.10.1
 npm -v   
 4.4.4  
 
-**HOW TO USE NODE/JAVASCRIPT INSIDE OF WINDOWS DOS PROMPT BOX**  
+**HOW TO WRITE/RUN JAVASCRIPT ON THE FLY CODE USING NODE INSIDE OF WINDOWS DOS PROMPT BOX**  
 
 Now, in order to load Node to run inside of Windows DOS Prompt; simply, type in...
 
@@ -46,6 +46,21 @@ var y=7;
 var (x=1;x<13;x++){  
  console.log(x + " X " + y + " = " + x*y;  
 }  
+
+**HOW TO WRITE/RUN JAVASCRIPT PROGRAM FILES (.js) USING NODE INSIDE OF WINDOWS DOS PROMPT BOX**  
+
+First, write the Javascript file...  
+
+var a=1;  
+var b=2;  
+console.log(a+b);  
+...next save the file as being called:   
+add.js  
+
+Now, open up a DOS command prompt window...and, surf to where the Javascript file you created is located...; and, type into the DOS window...  
+node add  
+...the output result should display as...  
+3
 
 ## NOTES
 
