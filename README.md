@@ -33,36 +33,36 @@ Now, in order to load Node to run inside of Windows DOS command Prompt box; simp
 ...then, to test out if Javascript commands are working type...
 
 (use node as a calculator)  
-3+3 (6)       
-3-3 (0)   
-3*3 (9)    
-3/3 (1)     
-Math.PI (3.141592653589793)    
+> 3+3 (6)       
+> 3-3 (0)   
+> 3*3 (9)    
+> 3/3 (1)     
+> Math.PI (3.141592653589793)    
 
 (use variables)  
-var a=1  
-var b=2  
-var c=a+b    
-c  
+> var a=1  
+> var b=2  
+> var c=a+b    
+> c  
 
 (write a time tables program)  
-var y=7;  
-var (x=1;x<13;x++){  
- console.log(x + " X " + y + " = " + x*y;  
-}  
+> var y=7;  
+> var (x=1;x<13;x++){  
+>  console.log(x + " X " + y + " = " + x*y;  
+> }  
 
 **HOW TO WRITE/RUN JAVASCRIPT PROGRAM FILES (.js) USING NODE INSIDE OF WINDOWS DOS PROMPT BOX**  
 
 First, write the Javascript file...  
 
-var a=1;  
-var b=2;  
-console.log(a+b);  
+> var a=1;  
+> var b=2;  
+> console.log(a+b);  
 ...next save the file as being called:   
 add.js  
 
 Now, open up a DOS command prompt window...and, surf to where the Javascript file you created is located...; and, type into the DOS window...  
-node add  
+> node add  
 ...the output result should display as...  
 3
 
