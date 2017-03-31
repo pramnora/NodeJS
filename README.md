@@ -68,7 +68,7 @@ Now, open up a DOS command prompt window...and, surf to where the Javascript fil
 
 ## NOTES
 
-**NOTE: (1)**: Where do I go to install NodeJS for FREE?  
+**NOTE: (1)**: Where do I go to both download/install NodeJS for FREE?  
 https://nodejs.org/en/  
 
 **NOTE: (2)**: If you ever wish to uninstall Node; then, it really is quite as simple and straight forwards as uninstalling any other Windows program; just look inside of Programs Manager; find the program by  typing in the name: node; then, click: Uninstall.
@@ -83,10 +83,10 @@ global
 Example...  
 var a=1  
 global.a  
-...or, simply, type...  
-a  
 ...or, instead, use...  
 console.log(a)  
+...or, a lot more simply, just type...  
+a  
 
 **NOTE: (5)**: Amazingly enough, it's possible to get a web server fully up and running -with output you can view inside of your web browser- with just 7 or so lines of NodeJS code!
 
@@ -98,8 +98,8 @@ npm -v    (shows which npm version you are currently running)
 [CTRL]+[C], twice (to quit running node)      
 exit              (to quit running DOS)    
 
-npm install (creates a [package.json] file which lists all installed packages for a particular app. to work)  
-npm install packageName  (both downloads/and, installs that partciular package name: ExpressJS/-etc.)  
+npm init (creates a [package.json] file which lists all installed packages for a particular app. to work)  
+npm install packageName  (both downloads/and, installs that particular package name: ExpressJS/-etc.)  
 
 ## Links...
 
