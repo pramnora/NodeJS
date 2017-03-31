@@ -96,7 +96,8 @@ npm -v    (shows which npm version you are currently running)
 [CTRL]+[C], twice (to quit running node)      
 exit              (to quit running DOS)    
 
-npm install packageName  
+npm install (creates a [package.json] file which lists all installed packages for a particular app. to work)  
+npm install packageName  (both downloads/and, installs that partciular package name: ExpressJS/-etc.)  
 
 ## Links...
 
