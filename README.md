@@ -117,4 +117,7 @@ https://www.youtube.com/watch?v=U8XF6AFGqlc&t=1154s
 Node.js Tutorial - Intro to Node.js (Level 1) (Code School)  
 https://www.youtube.com/watch?v=GJmFG4ffJZU  
 
+Daniel Shiffman video series...
+15.1: What is Node.js? - Twitter Bot Tutorial
+https://www.youtube.com/watch?v=RF5_MPSNAtU
 
