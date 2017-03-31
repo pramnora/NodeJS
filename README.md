@@ -26,6 +26,10 @@ v6.10.1
 > npm -v   
 4.4.4  
 
+Other node commands are...  
+> npm help
+> npm update
+
 For further reading: See NOTE(3)...  
 
 **HOW TO RUN JAVASCRIPT CODE ON THE FLY USING NODE INSIDE OF WINDOWS DOS PROMPT BOX**  
