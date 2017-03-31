@@ -13,18 +13,22 @@ https://nodejs.org/en/
 
 **CHECKING WHICH VERSIONS OF BOTH NODE/NPM YOU GOT...?**  
 
-Next, go and run a DOS prompt...use [Windows Picture Icon key] + [R]...and, type in: cmd...next, press [OK]. Then, if you type in at the DOS command prompt either of the two following commands it will tell you which version you are using:  
+First, open a Windows DOS prompt box by doing a combination key press of...  
+[Windows Picture Icon key] + [R]  
+...and, type into the RUN dialog box that appears:    
+cmd  
+...next, press [OK]. A black screen window should appear showing the command prompt symbol: (>); if you type in after the DOS command prompt: (>) either of the two following commands it will tell you which version(s) you are using:  
 
-node -v  
+> node -v  
 v6.10.1  
-npm -v   
+> npm -v   
 4.4.4  
 
-**HOW TO WRITE/RUN JAVASCRIPT CODE ON THE FLY USING NODE INSIDE OF WINDOWS DOS PROMPT BOX**  
+**HOW TO RUN JAVASCRIPT CODE ON THE FLY USING NODE INSIDE OF WINDOWS DOS PROMPT BOX**  
 
-Now, in order to load Node to run inside of Windows DOS Prompt; simply, type in...
+Now, in order to load Node to run inside of Windows DOS command Prompt box; simply, type in...
 
-node
+> node
 
 ...then, to test out if Javascript commands are working type...
 
