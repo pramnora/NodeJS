@@ -3,16 +3,17 @@ Node.js Tutorial For Absolute Beginners
 https://www.youtube.com/watch?v=U8XF6AFGqlc&t=1154s
 */
 
-/* The following code will set up and run a Node web server on port: 3000;
-   which will output a [.html] web page file into your web browser.
+/* The following code sets up a web server running on port: 3000;
+   it will output a [.html] web page file contents into your web browser.
 
    In order to check that the server is up and running, successfully,
    type into your web browser address bar, either:
+   
    127.0.0.1:3000
    ...or,...
    localhost:3000
 
-   ...and, you should see the response appear inside of your web browser window displaying the [.html] file contents.
+   ...to see the web page output.
 */
 
 //*** NOTE: ES15 style code...
