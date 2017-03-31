@@ -20,7 +20,7 @@ v6.10.1
 npm -v   
 4.4.4  
 
-**HOW TO WRITE/RUN JAVASCRIPT ON THE FLY CODE USING NODE INSIDE OF WINDOWS DOS PROMPT BOX**  
+**HOW TO WRITE/RUN JAVASCRIPT CODE ON THE FLY USING NODE INSIDE OF WINDOWS DOS PROMPT BOX**  
 
 Now, in order to load Node to run inside of Windows DOS Prompt; simply, type in...
 
