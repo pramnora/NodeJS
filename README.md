@@ -3,7 +3,7 @@ NodeJS code
 
 **INTRODUCTION**    
 
-Believe it or not, but, NodeJS brings Javascript coding straight onto the Desktop; at first, I really couldn't believe it myself...that is, not until when I actually went and tried it...wow!  
+Believe it or not, but, NodeJS brings Javascript coding straight onto the Desktop; at first, I really couldn't believe it myself...that is, not until when I actually went and tried it. WOW!  
 
 **NODE JS INSTALLATION PROCESS ON WINDOWS 10**    
 
