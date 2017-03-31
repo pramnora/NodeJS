@@ -116,6 +116,8 @@ Node.js Tutorial For Absolute Beginners (Traversey Media)
 https://www.youtube.com/watch?v=U8XF6AFGqlc&t=1154s   
 Node.js Tutorial - Intro to Node.js (Level 1) (Code School)  
 https://www.youtube.com/watch?v=GJmFG4ffJZU  
+What is Node.js? (StrongLoopVideos)  
+https://www.youtube.com/watch?v=e8ZLfcHxrD8  
 
 Daniel Shiffman video series...  
 15.1: What is Node.js? - Twitter Bot Tutorial  
