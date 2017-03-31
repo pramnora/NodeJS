@@ -88,6 +88,8 @@ a
 ...or, instead, use...  
 console.log(a)  
 
+**NOTE: (5)**: Amazingly enough, it's possible to get a web server fully up and running -with output you can view inside of your web browser- with just 7 or so lines of NodeJS code!
+
 ## Node JS commands...used when running node inside of DOS...  
 
 node -v   (shows which node version you are currently running)  
