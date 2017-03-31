@@ -11,6 +11,8 @@ Furthermore, NodeJS is incredibly simple and easy to both install/uninstall. Jus
 https://nodejs.org/en/    
 ...and, on the front page it has 2 x download buttons: [LTS]/[Current]. I usually pick to download what is the current most version...which also tends to be the most up to date version, as well. Right now, I'm using Windows 10; and, this will download the Windows automatic set up (.msi) file; after this file has completed downloading; then, you simply click on it to run; and, keep on clicking [OK] to accept all of the program defaults; finally, click on [Finish]; and, that's it, you're all done...in just merely a few minutes.   
 
+For further reading: See NOTE(1 & 2)...  
+
 **CHECKING WHICH VERSIONS OF BOTH NODE/NPM YOU GOT...?**  
 
 First, open a Windows DOS prompt box by doing a combination key press of...  
@@ -23,6 +25,8 @@ cmd
 v6.10.1  
 > npm -v   
 4.4.4  
+
+For further reading: See NOTE(3)...  
 
 **HOW TO RUN JAVASCRIPT CODE ON THE FLY USING NODE INSIDE OF WINDOWS DOS PROMPT BOX**  
 
@@ -50,6 +54,8 @@ Now, in order to load Node to run inside of Windows DOS command Prompt box; simp
 > var (x=1;x<13;x++){  
 >  console.log(x + " X " + y + " = " + x*y;  
 > }  
+
+For further reading: See NOTE(4)...  
 
 **HOW TO WRITE/RUN JAVASCRIPT PROGRAM FILES (.js) USING NODE INSIDE OF WINDOWS DOS PROMPT BOX**  
 
