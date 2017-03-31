@@ -5,7 +5,7 @@ NodeJS code
 
 Believe it or not, but, NodeJS brings Javascript coding straight onto the Desktop; at first, I really couldn't believe it myself...that is, not until when I actually went and tried it...wow!  
 
-**THE INSTALLATION PROCESS ON WINDOWS 10**    
+**NODE JS INSTALLATION PROCESS ON WINDOWS 10**    
 
 Furthermore, NodeJS is incredibly simple and easy to both install/uninstall. Just go along to...  
 https://nodejs.org/en/    
