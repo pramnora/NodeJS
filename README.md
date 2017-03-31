@@ -96,6 +96,8 @@ npm -v    (shows which npm version you are currently running)
 [CTRL]+[C], twice (to quit running node)      
 exit              (to quit running DOS)    
 
+npm install packageName  
+
 ## Links...
 
 http://www.node.org  
