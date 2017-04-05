@@ -84,6 +84,14 @@ Now, open up a DOS command prompt window...and, surf to where the Javascript fil
 ...the output result should display as...  
 3
 
+**NODEJS, ADVANTAGES OVER VANILLA JAVASCRIPT**
+
+It's possible to create...
+
+- your own web server in just merely 7 lines of NodeJS code (you can run web pages)   
+- your own chat program  
+- etc.  
+
 ## NOTES
 
 **NOTE: (1)**: Where do I go to both download/install NodeJS for FREE?  
@@ -105,8 +113,6 @@ global.a
 console.log(a)  
 ...or, a lot more simply, just type...  
 a  
-
-**NOTE: (5)**: Amazingly enough, it's possible to get a web server fully up and running -with output you can view inside of your web browser- with just 7 or so lines of NodeJS code!
 
 ## Node JS commands...used when running node inside of DOS...  
 
