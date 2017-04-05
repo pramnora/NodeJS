@@ -137,4 +137,8 @@ Daniel Shiffman video series...
 15.1: What is Node.js? - Twitter Bot Tutorial  
 https://www.youtube.com/watch?v=RF5_MPSNAtU  
 
+'Tutorials for beginner' series...  
+nodejs tutorials for beginner part 1 of 17 (node.js introduction )  
+https://www.youtube.com/watch?v=iyGlZpWrPgs&list=PLdtEimKxDSoXDq-zE2YZuJtbERh4x0lxm  
+
 
