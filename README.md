@@ -126,7 +126,7 @@ a
 > npm view packageName (shows files contained inside of the named package before downloading it)  
 > npm view packageName versions (shows ALL of the different versions of the named package)  
 > npm init (creates a [package.json] file which lists all installed packages for a particular app. to work)    
-> npm install (will read the [package.json] file that lists dependencies/then, re-install any deleted packages)
+> npm install (will read the [package.json] file that lists dependencies/then, re-install any deleted packages)  
 > npm install packageName  (both downloads/and, installs that particular package name: ExpressJS/-etc.)  
   *NOTE*: Packages are installed into a folder called: Node modules  
 > npm install packageName -S (the -S flag adds the files to [package.json] as being dependencies)
