@@ -116,15 +116,24 @@ a
 
 ## Node JS commands...used when running node inside of DOS...  
 
-node -v   (shows which node version you are currently running)  
-npm -v    (shows which npm version you are currently running)  
+> node -v   (shows which node version you are currently running)  
+> npm -v    (shows which npm version you are currently running)  
 
-[CTRL]+[C], twice (to quit running node)      
-exit              (to quit running DOS)    
+> [CTRL]+[C], twice (to quit running node)      
+> exit              (to quit running DOS)    
 
-npm init (creates a [package.json] file which lists all installed packages for a particular app. to work)  
-npm install packageName  (both downloads/and, installs that particular package name: ExpressJS/-etc.)  
-
+> npm view packageName (shows files contained inside of the named package before downloading it)  
+> npm view packageName versions (shows ALL of the different versions of the named package)  
+> npm init (creates a [package.json] file which lists all installed packages for a particular app. to work)    
+> npm install packageName  (both downloads/and, installs that particular package name: ExpressJS/-etc.)   
+> npm install packageName -g (installs the package so that it can be used globally/as well as, locally)  
+> npm uninstall packageName (deletes the named package)    
+> npm outdated (lists all of the outdated packages)  
+> npm update (updates installed packages)  
+> npm update --save (updates packages/and, the [package.json] file which lists package dependencies)   
+> npm ls  (lists all of the locally installed packages)  
+> npm ls -g (lists all of the globally installed packages)  
+ 
 ## Links...
 
 http://www.node.org  
