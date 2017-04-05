@@ -5,13 +5,13 @@ NodeJS code
 
 If you already understand all of the main 3 core web technologies: HTML/CSS/Javascript; and, especially, Javascript...; then, NodeJS is, quite simply, a 'must' have for you. The main advantages are 2...  
 
-1- You can write/run Javascript code outside of the web browser; and, inside of a Windows DOS command terminal.  
-2- You can use NPM/Node Package Manager -that's included with NodeJS- which is, reputedly, the biggest Javascript code library in the whole wide world  
+- You can write/run Javascript code outside of the web browser; and, inside of a Windows DOS command terminal.  
+- You can use NPM/Node Package Manager -that's included with NodeJS- which is, reputedly, the biggest Javascript code library in the whole wide world  
 
 Basically, you run NodeJS Javascript code by using two different modes...first, open up a Windows DOS command window terminal...; then, at the DOS prompt...  
 
-a- type Javascript code (Math.PI)...and, the Javascript code will be, instantly, evaluated   
-b- type keyword: node filename.js...and, the Javascript code inside of the file will be run   
+- type Javascript code (Math.PI)...and, the Javascript code will be, instantly, evaluated   
+- type keyword: node filename.js...and, the Javascript code inside of the file will be run   
 
 **NODE JS INSTALLATION PROCESS ON WINDOWS 10**    
 
@@ -84,7 +84,7 @@ Now, open up a DOS command prompt window...and, surf to where the Javascript fil
 ...the output result should display as...  
 3
 
-**NODEJS, ADVANTAGES OVER VANILLA JAVASCRIPT**
+**NODEJS, OFFERS MANY OTHER ADVANTAGES OVER JUST PLAIN VANILLA JAVASCRIPT**
 
 It's possible to create...
 
