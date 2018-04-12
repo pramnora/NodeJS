@@ -30,7 +30,7 @@ cmd
 ...next, press [OK]. A black screen window should appear showing the command prompt symbol: (>); if you type in after the DOS command prompt: (>) either of the two following commands it will tell you which version(s) you are using:  
 
 > node -v  
-v9.11.1  
+v8.11.1  
 > npm -v   
 5.5.1  
 
