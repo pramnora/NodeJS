@@ -52,7 +52,8 @@ Now, in order to load Node to run inside of Windows DOS command Prompt box; simp
 > 3+3 (6)       
 > 3-3 (0)   
 > 3*3 (9)    
-> 3/3 (1)     
+> 3/3 (1) 
+> 3**3 (27)
 > Math.PI (3.141592653589793)    
 
 (use variables)  
