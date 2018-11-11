@@ -115,6 +115,11 @@ console.log(a)
 ...or, a lot more simply, just type...  
 a  
 
+**NOTE: (5)**: It is possible to run NodeJS code to execute not within the web browser itself; but, instead, inside of the console...just use:    
+> curl localhost:8080  
+> Hello, world!  
+>  
+
 ## Node JS commands...used when running node inside of DOS...  
 
 > node -v   (shows which node version you are currently running)  
