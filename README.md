@@ -176,7 +176,7 @@ https://www.youtube.com/watch?v=RF5_MPSNAtU
 nodejs tutorials for beginner part 1 of 17 (node.js introduction )  
 https://www.youtube.com/watch?v=iyGlZpWrPgs&list=PLdtEimKxDSoXDq-zE2YZuJtbERh4x0lxm  
 
-What is NPM?  (series of 11 tutorials from: npm inc)
+What is NPM?  (series of 11 tutorials from: npm inc)  
 https://www.youtube.com/watch?v=pa4dc480Apo&list=PLQso55XhxkgBMeiYmFEHzz1axDUBjTLC6  
 
 
