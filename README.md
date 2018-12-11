@@ -144,6 +144,7 @@ a
 > npm update --save (updates packages/and, the [package.json] file which lists package dependencies)   
 > npm ls  (lists all of the locally installed packages)  
 > npm ls -g (lists all of the globally installed packages)  
+> npm install npm -g  
  
 ## Links...
 
