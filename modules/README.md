@@ -1,13 +1,13 @@
 # NODEJS MODULES  
 
-NodeJS, allows one to break up a large Javascript file...into being a series of separately callable code modules, instead.
+NodeJS, allows one to break up a **large** Javascript file...into being a series of smaller separately callable code *modules*, instead.
 
 Each code module has..  
 
 - the file extension: [.js]    
-- uses the 'exports' statement to export a particular function/module  
+- uses the 'exports' statement to export a particular function/module  (eg. exports.add function(x,y){return x+y;})  
 
-This modular coding technique also allows one to build libraries of reusable functions.../-etc.  
+This *modular* coding technique; also, allows one to build libraries of 'reusable' functions.../-etc.  
 
 -----
 
