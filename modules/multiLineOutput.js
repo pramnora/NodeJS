@@ -1,5 +1,5 @@
 /*
- NOTE: This [hw02.js] file...is the called module file;
+ NOTE: This [multiLineOutput.js] file...is the called module file;
        it works in conjunction with the calling file: [call-module-hw02.js];
        also, both of these files need to be kept stored inside of the 'one' same directory folder to work.
 */
