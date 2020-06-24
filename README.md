@@ -164,10 +164,10 @@ What is Node.js Exactly? - a beginners introduction to Nodejs
 https://www.youtube.com/watch?v=pU9Q6oiQNd0&t=183s  
 Node.js Tutorial For Absolute Beginners (Traversey Media)  
 https://www.youtube.com/watch?v=U8XF6AFGqlc&t=1154s   
+Node.js Crash Course  (Traversey Media)   
+https://www.youtube.com/watch?v=fBNz5xF-Kx4  
 Node.js Tutorial - Intro to Node.js (Level 1) (Code School)  
 https://www.youtube.com/watch?v=GJmFG4ffJZU  
-Node.js Crash Course  
-https://www.youtube.com/watch?v=fBNz5xF-Kx4  
 
 StrongLoopVideos series...  
 What is Node.js?  
