@@ -1,6 +1,6 @@
 /* 
  NOTE: This file requires the file: [hw01.js];
-       which is kept stored inside of the same folder directory to work.
+       which is kept stored inside of the same directory folder to work.
 */
 
 var http = require('http');
