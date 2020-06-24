@@ -153,6 +153,11 @@ http://www.npm.org
 
 ## Tutorials
 
+### Online tutorials  
+
+W3Schools  
+https://www.w3schools.com/nodejs/default.asp  
+
 ### Video tutorials
 
 What is Node.js Exactly? - a beginners introduction to Nodejs  
