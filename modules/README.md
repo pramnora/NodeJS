@@ -13,8 +13,8 @@ This *modular* coding technique; also, allows one to build libraries of 'reusabl
 
 ## PROBLEMS I'M HAVING TO GO FIGURE OUT, AT THE MOMENT...  
 
-So, far to date, I seem to have figured out how to get the 'called' module to return back only a 'single' result;
-and, this single result can be used inside of a looping structure which is written inside of the 'calling' file.
+So, far to date, I seem to have figured out how to get the 'called' module to return back only a 'single' result;  
+the which single result can be used inside of a looping structure which is written inside of the 'calling' file.  
 
-But, I've still not worked out how to get a 'called' module to return back say the output of a loop
+But, I've still not worked out how to get a 'called' module to return back say the output of a loop  
 from inside of the 'called' file itself.
