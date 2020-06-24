@@ -1,5 +1,7 @@
 /* This file needs [myCalculator.js] to work...; and, both files should be kept stored together in the 'one' same folder directory. */
 
+/* This program shows that it's possible to call any number of different functions...; being stored inside of one separate module file. */ 
+
 var http = require('http');
 var doMaths = require('./myCalculator.js');
 var num1 = 10
