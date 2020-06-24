@@ -72,10 +72,10 @@ Now, in order to load Node to run inside of Windows DOS command Prompt box; simp
 >Welcome to Node.js v12.13.0.  
 >Type ".help" for more information.  
 >&gt; function add(x,y){return x+y}  
->undefined  
->&gt; add(1,2) 
->3  
->&gt;  
+>undefined    
+>&gt; add(1,2)   
+>3    
+>&gt;    
 
 For further reading: See NOTE(4)...  
 
