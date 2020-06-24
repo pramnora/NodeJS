@@ -48,7 +48,8 @@ Now, in order to load Node to run inside of Windows DOS command Prompt box; simp
 
 ...then, to test out if Javascript commands are working type...
 
-(use node as a calculator)  
+(use node as a simple calculator...)    
+
 > 3+3 (6)       
 > 3-3 (0)   
 > 3*3 (9)    
@@ -56,17 +57,21 @@ Now, in order to load Node to run inside of Windows DOS command Prompt box; simp
 > 3**3 (27)    
 > Math.PI (3.141592653589793)     
 
-(use variables)  
+(use variables...)  
+
 > var a=1  
 > var b=2  
 > var c=a+b    
 > c  
 
-(write a time tables program)  
+(write a time tables program...)  
+
 > var y=7;  
 > var (x=1;x<13;x++){  
 >  console.log(x + " X " + y + " = " + x*y;  
 > }  
+
+(create and use functions...)  
 
 >C:\Users\customer1\Desktop\test\programming\nodejs\test\myCode>node  
 >Welcome to Node.js v12.13.0.  
