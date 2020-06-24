@@ -1,3 +1,5 @@
+/* This file works in conjunction with: [add2num.js] */
+
 var http = require('http');
 var doMaths = require('./add2num.js');
 
