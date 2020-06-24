@@ -1,3 +1,5 @@
+/* This file needs [myCalculator.js] to work...; and, both files should be kept stored together in the 'one' same folder directory. */
+
 var http = require('http');
 var doMaths = require('./myCalculator.js');
 var num1 = 10
