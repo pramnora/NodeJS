@@ -80,7 +80,18 @@ Now, in order to load Node to run inside of Windows DOS command Prompt box; simp
 >undefined    
 >&gt; add(1,2)   
 >3    
->&gt;    
+>&gt; 
+
+(code example using modern ES16 'fat arrow' functions...)  
+
+>C:\Users\customer1\Desktop\test\programming\nodejs\test\myCode\modules>node  
+>Welcome to Node.js v12.13.0.  
+>Type ".help" for more information.  
+>&gt; m = multiply = (x,y) => x*y;  
+>[Function: multiply]  
+>&gt; m(3,3)  
+>9  
+>&gt;  
 
 For further reading: See NOTE(4)...  
 
