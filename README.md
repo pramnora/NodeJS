@@ -68,6 +68,15 @@ Now, in order to load Node to run inside of Windows DOS command Prompt box; simp
 >  console.log(x + " X " + y + " = " + x*y;  
 > }  
 
+>C:\Users\customer1\Desktop\test\programming\nodejs\test\myCode>node  
+>Welcome to Node.js v12.13.0.  
+>Type ".help" for more information.  
+>&gt; function add(x,y){return x+y}  
+>undefined  
+>&gt; add(1,2) 
+>3  
+>&gt;  
+
 For further reading: See NOTE(4)...  
 
 **HOW TO WRITE/RUN JAVASCRIPT PROGRAM FILES (.js) USING NODE INSIDE OF WINDOWS DOS PROMPT BOX**  
