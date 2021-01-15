@@ -2,7 +2,7 @@
 Created: 17:24 15/01/2021
 Updated: 17:24 15/01/2021
 
-Code borrowed from...
+Code originally borrowed from...
 https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript/Running-JavaScript-browser-or-server-3-of-51
 Video point: 2:51/00:47
 
