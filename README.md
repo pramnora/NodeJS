@@ -185,6 +185,9 @@ https://www.w3schools.com/nodejs/default.asp
 
 ### Video tutorials
 
+Microsoft (FREE/just register)...    
+https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript?WT.mc_id=beginner-c9-niner  
+
 What is Node.js Exactly? - a beginners introduction to Nodejs  
 https://www.youtube.com/watch?v=pU9Q6oiQNd0&t=183s  
 Node.js Tutorial For Absolute Beginners (Traversey Media)  
