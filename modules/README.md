@@ -19,11 +19,3 @@ the which single result can be used inside of a looping structure which is writt
 But, I've still not worked out how to get a 'called' module to return back say the output of a loop  
 from inside of the 'called' file itself.
 
------
-
-## LINKS...
-
-### YouTube Videos...
-
-Node JS Full Course - Learn Node.js in 7 Hours | Node.js Tutorial for Beginners | Edureka  
-https://www.youtube.com/watch?v=JnvKXcSI7yk&t=1214s  
