@@ -214,9 +214,16 @@ https://www.youtube.com/watch?v=iyGlZpWrPgs&list=PLdtEimKxDSoXDq-zE2YZuJtbERh4x0
 What is NPM?  (series of 11 tutorials from: npm inc)  
 https://www.youtube.com/watch?v=pa4dc480Apo&list=PLQso55XhxkgBMeiYmFEHzz1axDUBjTLC6  
 
+Node.js Tutorial for Beginners - Getting Started with NodeJS Basics    
+https://www.youtube.com/watch?v=C7TFgfY7JdE  
+
+Getting Started with Node.js - Full Tutorial  
+https://www.youtube.com/watch?v=gG3pytAY2MY  
+
+Node.js Tutorial for Beginners: Learn Node in 1 Hour / (Programming with Mosh)  
+https://www.youtube.com/watch?v=TlB_eWDSMt4  
+
 Node JS Full Course - Learn Node.js in 7 Hours | Node.js Tutorial for Beginners | Edureka  
 https://www.youtube.com/watch?v=JnvKXcSI7yk&t=1214s  
 
-Node.js Tutorial for Beginners - Getting Started with NodeJS Basics    
-https://www.youtube.com/watch?v=C7TFgfY7JdE  
 
